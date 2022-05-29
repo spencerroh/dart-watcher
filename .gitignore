@@ -1,0 +1,5 @@
+dart-watcher/obj/*
+dart-watcher/bin/*
+dart-watcher/configs/config.xml
+*.user
+
